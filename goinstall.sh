@@ -1,5 +1,9 @@
 #! /bin/bash
 
+# Shell script goinstall.sh
+# Email:ttthzy@gmail.com
+# Aming 2016-06-12
+
 # 附加必须的依赖
 apt-get update && apt-get install -yq git wget gcc
 rm -rf /var/cache/apt/archives /var/cache/apt/archives/partial
